@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/rec3141/diversity-scripts/master/convert_silva_taxonomy.r
+#https://raw.githubusercontent.com/rec3141/diversity-scripts/master/convert_silva_taxonomy.r
 
 REF_RAW_PATH="/workshop_ressources/reference_sets/"
 REF_DBS="silva_132_ref_nr"

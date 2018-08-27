@@ -1,4 +1,4 @@
-input_dir="../../common/test_data/"
+input_dir="."
 output_dir="."
 threads=10 
 for i in $input_dir/*R1_001.fastq; do 
